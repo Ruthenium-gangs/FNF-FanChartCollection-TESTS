@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="FNF: Fan Chart Collection (Reborn)" file="JSEngine" packageName="com.JordanSantiago.JSengine" package="com.JordanSantiago.JSengine" main="Main" version="0.3.0" company="JordanSantiago" />
+	<app title="FNF: Fan Chart Collection (Reborn)" file="FanChartCollection" packageName="com.JordanSantiago.JSengine" package="com.JordanSantiago.JSengine" main="Main" version="0.3.0" company="JordanSantiago" />
 	<app preloader="flixel.system.FlxPreloader" />
 
 	<!-- ____________________________ Window Settings ___________________________ -->
