@@ -622,11 +622,11 @@ class TitleState extends MusicBeatState
 				case 13:
 					deleteCoolText();
 				case 14:
-					addMoreText('Friday');
+					addMoreText('Fan Chart');
 				case 15:
-					addMoreText('Night');
+					addMoreText('Collection');
 				case 16:
-					addMoreText('Funkin');
+					addMoreText('Reborn');
 
 				case 17:
 					skipIntro();
